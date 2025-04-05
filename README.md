@@ -23,3 +23,5 @@ This project predicts survival on the Titanic using machine learning, specifical
 - Model performs well on classifying survivors vs. non-survivors
 - Future improvements: try Decision Trees, Random Forests, and hyperparameter tuning
 
+<img width="452" alt="tlr" src="https://github.com/user-attachments/assets/68ae674c-dcd1-4390-b185-eff1aee7e733" />
+
